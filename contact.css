@@ -212,14 +212,16 @@ h1 {
   border-radius: 25px;
   text-decoration: none;
   transition: background-color 0.3s ease-in-out;
-  margin-right: 180px;
-  margin-top: 230px;
+  margin-right: 390px;
+  margin-top: 130px;
   margin-left: 200px;
+  border: solid yellow 6px;
 }
 
 #button:hover {
   background-color: rgb(0, 255, 110);
   color: red;
+  border: solid yellow 6px;
 }
 
 #button1 {
@@ -232,9 +234,10 @@ h1 {
   font-weight: bold;
   border-radius: 25px;
   transition: background-color 0.3s ease-in-out;
-  margin-right: 250px;
-  margin-top: 230px;
+  margin-right: 150px;
+  margin-top: 130px;
   margin-left: 10px;
+  border: solid yellow 6px;
 }
 
 #button1:hover {
@@ -244,7 +247,7 @@ h1 {
 
 #button2 {
   display: inline-block;
-  background-color: rgb(255, 0, 255);
+  background-color: rgb(255, 0, 0);
   color: #1e293b;
   padding: 12px 25px;
   font-size: 18px;
@@ -252,13 +255,14 @@ h1 {
   border-radius: 25px;
   text-decoration: none;
   transition: background-color 0.3s ease-in-out;
-  margin-right: 140px;
-  margin-top: 230px;
+  margin-right: 10 0px;
+  margin-top: 130px;
   margin-left: 10px;
+  border: solid yellow 6px;
 }
 
 #button2:hover {
-  background-color: greenyellow;
+  background-color: rgb(234, 255, 0);
   color: red;
 }
 
@@ -273,6 +277,7 @@ h1 {
   text-decoration: none;
   transition: background-color 0.3s ease-in-out;
   margin-top: 80px;
+  padding: 20px;
 }
 
 #button3:hover {
